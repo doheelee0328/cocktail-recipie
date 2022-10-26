@@ -131,7 +131,7 @@ h6:hover {
 .menu:hover {
   text-decoration: underline;
   text-decoration-color: #fd7d73;
-  color: yellow;
+  color: #fd7d73;
   cursor: pointer;
 }
 
