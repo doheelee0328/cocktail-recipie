@@ -1,4 +1,5 @@
 # Cocktail recipe
+
 Our team worked collaboratively to design and develop a website using HTML, CSS, and JavaScript, with a focus on creating a platform for users to explore and learn about different cocktail recipes. The website includes a homepage that features a navigation bar, allowing users to easily access different sections of the website.
 
 One of the notable features of the website is the "Favorite Recipes" section, which allows users to easily access their preferred cocktail recipes. Additionally, your team implemented a newsletter sign-up feature, enabling users to receive regular updates on new recipes and other content on the website.
